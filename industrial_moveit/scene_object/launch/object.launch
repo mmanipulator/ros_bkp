@@ -1,0 +1,5 @@
+<launch>
+  <!-- My Package launch file -->
+  <node pkg="scene_object" type="object" name="add_wall"  output="screen">
+  </node>
+</launch>
